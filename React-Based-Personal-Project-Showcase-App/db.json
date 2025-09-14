@@ -1,26 +1,47 @@
 {
- "store_info": [
+  "store_info": [
     {
-      "id": 1,
-      "name": "Coffee R Us",
-      "description": "The go to store for coffee",
-      "phone_number": "555-5555"
+      "id": "1",
+      "name": "Coffee R Us (yep...)",
+      "description": "The go to store for coffee (or is it?)",
+      "phone_number": "555-5555-something-something"
     }
-   ],
+  ],
   "coffee": [
     {
-      "id": 1,
-      "description": "Medium Roast, nutty flavor",
-      "name": "Vanilla bean",
+      "id": "1",
+      "description": "Medium Roast, nutty flavor. Totally nuts",
+      "name": "Vanilla bean. With extra vanilla. And bean",
       "origin": "Columbia",
-      "price": 10.00
+      "price": 18
     },
     {
-      "id": 2,
-      "description": "Dark Roast, Rich flavor",
-      "name": "House Blend",
+      "id": "2",
+      "description": "Dark Roast, Rich flavor. Tastes like money",
+      "name": "Our House Blend. We blended our House",
       "origin": "Vietnam",
-      "price": 12.00
+      "price": 12
+    },
+    {
+      "id": "3",
+      "description": "Floral aroma with citrus notes. We think",
+      "name": "Ethiopian Yirgacheffe (yeah, no clue)",
+      "origin": "Ethiopia",
+      "price": 15
+    },
+    {
+      "id": "4",
+      "description": "Smooth body, chocolate and nut finish. Maybe",
+      "name": "Brazil Santos (we think it is real)",
+      "origin": "Brazil",
+      "price": 16
+    },
+    {
+      "id": "5",
+      "description": "Low acidity, earthy and syrupy. Plus more",
+      "name": "Sumatra Mandheling (Decaf, maybe. You will see)",
+      "origin": "Indonesia",
+      "price": 14
     }
-   ]
+  ]
 }
